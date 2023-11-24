@@ -30,7 +30,3 @@ PrintArray(array);
 string[] newArray = new string[array.Length];
 MoreThree(array, newArray);
 PrintArray(newArray);
-
-
-
-
